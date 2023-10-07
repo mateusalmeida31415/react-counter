@@ -1,6 +1,6 @@
 # Counter Days
 
-![Preview](./.github/1.png)
+![Preview](./1.png)
 
 Projeto construido no curso The Ultimate React Course 2023: React, Redux & More pelo instrutor Jonas Schmedtmann
 
